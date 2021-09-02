@@ -1,14 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Daniele, i'm a 19 year-old boy from Rome, in Italy.
+I'm Maria, i'm a 20 year-old boy from Rome, in Italy.
 &nbsp;
 
 Welcome to my GitHub profile!
 
 &nbsp;
 
-![DaniFascio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniFascio&show_icons=true&theme=nightowl)
-&nbsp;
+
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
